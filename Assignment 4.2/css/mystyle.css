@@ -1,0 +1,23 @@
+h1 {
+  font-family: Courier New, Lucida Console;
+  size: 32px;
+  color:  #FF0000;
+  font-style: oblique;
+}
+
+p {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 10vw;
+  color: rgb(0, 0, 255);
+  text-transform: lowercase;
+  }
+  
+footer {
+  font-family: 'Ostrich Sans Rounded', sans-serif;
+  font-size: 1.6vw;
+  color: hsl(350, 100%, 88%);
+  font-stretch: expanded;
+  }
+  
+
+ 
